@@ -1,2 +1,2 @@
-# ejemplo-capas-base
-Ejemplo de varias capas base
+# ejemplo-leaflet-coropletas
+Ejemplo de mapa de coropletas construído con Leaflet y datos en formato GeoJSON
